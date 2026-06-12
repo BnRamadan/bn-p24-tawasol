@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="public/logo.png" alt="Tawasul Logo" width="120" />
+<img src="https://aitawasol.com/_next/image?url=%2Flogo.png&w=32&q=75" alt="Tawasul Logo" width="120" />
 
 <br/>
 
